@@ -15,13 +15,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(211, 204, 3);
+    background-color: rgb(10, 187, 119);
 }
 
 
 .container {
     max-width: 1000px;
-    background: rgba(187, 255, 0, 0.523);
+    background: rgba(11, 117, 203, 0.523);
     border: 1px solid rgb(255, 255, 255);
     padding: 30px;
     display: flex;
